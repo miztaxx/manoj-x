@@ -1,0 +1,51 @@
+{
+    "main": {
+        "test": true,
+        "Auto_Voice_Reply": false,
+        "AntiViewOnce": true,
+        "Anti_Delete": true,
+        "trim_for_poll": true,
+        "SEND_MEDIA_MESSAGES_AS_AN_EXCERPT": true,
+        "use_poll_for_button": true,
+        "use_button": true
+    },
+    "94761047254": {
+        "is_sudo": true
+    },
+    "94710998414": {
+        "is_sudo": true
+    },
+    "94785435462": {
+        "is_sudo": true
+    },
+    "120363186788859917": {
+        "is_banned": true
+    },
+    "94701337346": {
+        "is_sudo": true
+    },
+    "94701669543": {
+        "is_sudo": true
+    },
+    "94766700145": {
+        "is_sudo": true
+    },
+    "94701420335": {
+        "is_sudo": true
+    },
+    "94768535137": {
+        "is_sudo": true
+    },
+    "94768911863": {
+        "is_sudo": true
+    },
+    "966588806987": {
+        "is_sudo": true
+    },
+    "94786925006": {
+        "is_sudo": true
+    },
+    "94701003525": {
+        "is_sudo": true
+    }
+}
