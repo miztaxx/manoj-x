@@ -8,7 +8,7 @@
         "status_receive": "120363204172597274@g.us",
         "bot_remove": "all#not-admin",
         "max_file_size": "2202009600",
-        "work_type": "private",
+        "work_type": "dual",
         "send_doc_vid": "yes",
         "leo_api": "4faba583-ec51-4184-8b5b-9c2403303faa",
         "leo_r": "120363294323627565@g.us"
