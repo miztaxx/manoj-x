@@ -49,6 +49,6 @@
         "is_sudo": true
     },
     "94768282864": {
-        "is_sudo": true
+        "is_sudo": false
     }
 }
