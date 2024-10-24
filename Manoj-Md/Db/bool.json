@@ -7,7 +7,8 @@
         "trim_for_poll": true,
         "SEND_MEDIA_MESSAGES_AS_AN_EXCERPT": true,
         "use_poll_for_button": true,
-        "use_button": true
+        "use_button": true,
+        "mood_status_react": true
     },
     "94761047254": {
         "is_sudo": true
